@@ -1,0 +1,28 @@
+body{
+    background-color: peachpuff;
+}
+#Header{
+    font-size: 20px;
+    font-family: "Georgia";
+    color: brown;
+    text-align: center;
+}
+#Cats{
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    align-items: center;
+    font-size: 14px;
+    font-family: "Courier New";
+    font-weight: bold;
+    border-style: dotted;
+    border-color: white;
+    border-radius: 25px;
+    text-align: center;
+    color: black;
+}
+#Cats img{
+    float:left;
+    border-radius: 25px;
+}
